@@ -37,3 +37,12 @@ Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = s
 Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
+
+## Model - Cross-industry standard process for data mining (CRISP-DM)
+
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modeling
+5. Evaluation
+6. Deployment
